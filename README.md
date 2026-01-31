@@ -30,3 +30,4 @@ This is not a hook setup, just a helpful script to setup laravel app
 curl -s https://raw.githubusercontent.com/Azom-apache/laravel-git-hooks/main/initial_setup.sh > tmp.sh && bash tmp.sh && rm tmp.sh
 ```
 
+# laravel-git-hook-for-deploy
